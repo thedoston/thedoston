@@ -6,3 +6,9 @@ My name is Doston (some know me as DSK). I am on a self-taught journey, working 
 ✉️  You can contact me at dostonsoliyev98@gmail.com
 
 🤝  I'm open to collaborating on open-source or personal projects.
+
+Skills
+Python JavaScript HTML5 CSS3
+
+Socials
+Instagram
